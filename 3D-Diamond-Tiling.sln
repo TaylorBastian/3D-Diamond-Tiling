@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D-Diamond-Tiling.Plugins", "3D-Diamond-Tiling.Plugins.csproj", "{ED5EE679-BD92-19D3-6879-EC50CA9EA65A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D-Diamond-Tiling", "3D-Diamond-Tiling.csproj", "{B9C43385-CE8C-1530-A18B-8E50C7E7059C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D-Diamond-Tiling.Editor.Plugins", "3D-Diamond-Tiling.Editor.Plugins.csproj", "{7850A6E4-84A5-89AB-9A57-4AB67E4EE724}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED5EE679-BD92-19D3-6879-EC50CA9EA65A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED5EE679-BD92-19D3-6879-EC50CA9EA65A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED5EE679-BD92-19D3-6879-EC50CA9EA65A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED5EE679-BD92-19D3-6879-EC50CA9EA65A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9C43385-CE8C-1530-A18B-8E50C7E7059C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C43385-CE8C-1530-A18B-8E50C7E7059C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C43385-CE8C-1530-A18B-8E50C7E7059C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C43385-CE8C-1530-A18B-8E50C7E7059C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7850A6E4-84A5-89AB-9A57-4AB67E4EE724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7850A6E4-84A5-89AB-9A57-4AB67E4EE724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7850A6E4-84A5-89AB-9A57-4AB67E4EE724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7850A6E4-84A5-89AB-9A57-4AB67E4EE724}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
